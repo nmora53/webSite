@@ -1,0 +1,19 @@
+# Project/Team Name
+
+### **Region:**
+
+### **Team Members**:
+
+---
+
+### Project Overview
+
+> ...
+
+### Setup Instructions
+
+> ...
+
+### Supporting Assets/ Documentation/ Links
+
+> ...
